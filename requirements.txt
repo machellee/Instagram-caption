@@ -1,0 +1,23 @@
+torch==2.7.0+cu121
+torchvision 
+torchaudio
+iopath
+timm
+ftfy regex tqdm
+sentencepiece
+accelerate
+einops
+Pillow
+ipykernel==6.29.5
+unsloth==2025.4.3
+unsloth-zoo==2025.4.2
+gdown==5.2.0
+huggingface_hub==0.30.2
+wandb==0.19.9  # Optional
+bitsandbytes==0.45.5
+transformers==4.51.3
+gradio==3.50.2
+omegaconf
+webdataset
+scikit-image
+datasets
